@@ -1,1 +1,42 @@
-# Challenge2
+# Challenge 2: Advanced CSS Portfolio
+
+## Description
+
+This project consists in working on building my own portfolio website using HTML and CSS. The main aim is to create a visually attractive and responsive site that shows my skills effectively. This involves organizing the website using clear HTML, styling it with CSS to create a modern appearance. Through this portfolio, I aim to demonstrate my skills and ability to create a professional website without a starter code. 
+
+## Installation
+
+1- We need to create a GitHub repository. Once created, we copy the HTTPS URL and clone it in Visual Studios. 
+
+2- With the repository coned in Visual Studios, we are ready to start coding and create our project. 
+
+3- In Visual Studios we have to create an HTML and CSS file. Also, we should organize the images that we would like to use for our project. 
+
+4- Once the files are ready, we start designing and styling the website the way we want it to look like. 
+
+## Screenshot
+
+
+## Contributing
+
+1- Fork the repository
+
+2- Create a new branch
+
+3- Make your changes and commit
+
+4- Push to the branch 
+
+5- Open a pull request
+
+
+# Contact
+
+* The URL of deployed application:
+
+
+* The URL of the GitHub repository:
+
+
+
+
