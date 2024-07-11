@@ -19,23 +19,22 @@ This project consists in working on building my own portfolio website using HTML
 
 ## Contributing
 
-1- Fork the repository
+1- Create a new repository
 
-2- Create a new branch
+2- Push your code to the repository 
 
 3- Make your changes and commit
 
-4- Push to the branch 
+4- Open a pull request
 
-5- Open a pull request
 
 
 # Contact
 
-* The URL of deployed application:
+* The URL of deployed application
 
 
-* The URL of the GitHub repository:
+* The URL of the GitHub repository: https://github.com/alannadf/Challenge2.git
 
 
 
