@@ -31,6 +31,17 @@ section {
     text-align: center;
 }
 
+#about img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.work-item {
+    display:inline-block;
+    margin: 1rem;
+    text-align: center;
+}
+
 
 
 
