@@ -21,6 +21,18 @@ nav ul li {
     margin: 0 1rem;
 }
 
+nav ul li a {
+    color:white;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    text-align: center;
+}
+
+
+
 
 
 
