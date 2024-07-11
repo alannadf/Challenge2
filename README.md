@@ -16,6 +16,8 @@ This project consists in working on building my own portfolio website using HTML
 
 ## Screenshot
 
+![Result](./assets/img/img4challenge2.png)
+![Result](./assets/img/img5challenge2.png)
 
 ## Contributing
 
