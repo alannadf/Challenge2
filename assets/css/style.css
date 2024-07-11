@@ -31,6 +31,11 @@ section {
     text-align: center;
 }
 
+#work p {
+    margin: 1rem 0;
+    text-align:left;
+}
+
 #about img {
     width: 150px;
     border-radius: 50%;
