@@ -14,7 +14,7 @@ This project consists in working on building my own portfolio website using HTML
 
 4- Once the files are ready, we start designing and styling the website the way we want it to look like. 
 
-## Screenshot
+## Screenshots
 
 ![Result](./assets/img/img4challenge2.png)
 ![Result](./assets/img/img5challenge2.png)
