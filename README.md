@@ -31,7 +31,7 @@ This project consists in working on building my own portfolio website using HTML
 
 # Contact
 
-* The URL of deployed application
+* The URL of deployed application: https://alannadf.github.io/Challenge2/ 
 
 
 * The URL of the GitHub repository: https://github.com/alannadf/Challenge2.git
